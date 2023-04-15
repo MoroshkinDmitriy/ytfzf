@@ -200,3 +200,4 @@ Feel free to contribute, and add your name to the credits, please use the develo
 | mathisto | [contributions](credits/mathisto.md)||
 
 # Мои записи
+Не хочу писать тут, буду писать выше, в самом начале 
